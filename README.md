@@ -12,7 +12,7 @@ A simple command-line to-do list application built with [Typer](https://typer.ti
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-cli.git
+   git clone https://github.com/iammanishanand/todo-cli.git
    cd todo-cli
    ```
 2. Create a virtual environment (optional but recommended):
